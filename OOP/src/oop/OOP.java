@@ -112,7 +112,9 @@ public class OOP {
             
         }
 
-       /**/
+       /*Ogni volta che provo a far girare il programma mi dice: Exception in thread "main" java.lang.NullPointerException:
+        Cannot assign field "modello" because "fabbrica[i]" is null at oop.OOP.main(OOP.java:94). Ho provato a togliere quella parte e 
+        mi dice la stessa cosa per ogni proprietà dell'auto che assegno e non riesco a capire cosa significhi quell'errore :(  */
 
     }
 
